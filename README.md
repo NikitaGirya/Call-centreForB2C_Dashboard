@@ -37,7 +37,7 @@
 Доступно также распределение заказов по способу доставки и времени исполнения (с момента заказа до получения клиентом), что позволяет понять предпочтительный способ получения
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89247751/228307217-ee00cd78-3dbb-4ed8-aa67-8c65a142e60c.png" width=700 height=400 /> </br>
+  <img src="https://user-images.githubusercontent.com/89247751/228443064-301678fa-785f-4ce4-9296-13524d470c9c.png" width=700 height=400 /> </br>
   Вкладка "Путь клиента и RR"
 </p>
 
